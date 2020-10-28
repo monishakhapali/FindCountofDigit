@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\bin\Debug\netcoreapp3.1\FindOccurenceofD.exe
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\bin\Debug\netcoreapp3.1\FindOccurenceofD.deps.json
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\bin\Debug\netcoreapp3.1\FindOccurenceofD.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\bin\Debug\netcoreapp3.1\FindOccurenceofD.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\bin\Debug\netcoreapp3.1\FindOccurenceofD.dll
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\bin\Debug\netcoreapp3.1\FindOccurenceofD.pdb
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\obj\Debug\netcoreapp3.1\FindOccurenceofD.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\obj\Debug\netcoreapp3.1\FindOccurenceofD.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\obj\Debug\netcoreapp3.1\FindOccurenceofD.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\obj\Debug\netcoreapp3.1\FindOccurenceofD.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\obj\Debug\netcoreapp3.1\FindOccurenceofD.dll
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\obj\Debug\netcoreapp3.1\FindOccurenceofD.pdb
+C:\Users\monisha.khapali\source\repos\FindOccurenceofD\FindOccurenceofD\obj\Debug\netcoreapp3.1\FindOccurenceofD.genruntimeconfig.cache
